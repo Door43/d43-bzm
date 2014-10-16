@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[bzm:home|Door43 (bzm)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-bzm|d43-bzm repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-bzm/archive/master.zip|d43-bzm.zip]]
+
+**Recent Changes**
+{{changes>ns = bzm}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/bzm|Ethnologue data]]
+
